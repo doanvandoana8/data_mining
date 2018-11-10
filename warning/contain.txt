@@ -1,0 +1,3 @@
+﻿Hiện tại weka có hỗ trợ rời rạc hóa dữ liệu, bla bla nên không cần import vào sql nữa
+Không dùng các tập tin trong hướng dẫn import nữa
+Dùng các tập tin trong tools

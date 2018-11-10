@@ -1,3 +1,0 @@
-﻿Dữ liệu không được chứa các kí tự như: , hoặc "
-Ta sẽ thay thế bằng _, chẳng hạn tình hình, hóng -> tình hình_hóng
-Nếu để như mặc định sẽ bị lỗi EOL
